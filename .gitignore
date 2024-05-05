@@ -1,0 +1,119 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+_pycache_/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+### Django.Python Stack ###
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+# C extensions
+*.so
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+# Translations
+*.mo
+# Django stuff:
+# Flask stuff:
+instance/
+.webassets-cache
+# Scrapy stuff:
+.scrapy
+# Sphinx documentation
+docs/_build/
+# PyBuilder
+.pybuilder/
+target/
+# Jupyter Notebook
+.ipynb_checkpoints
+# IPython
+profile_default/
+ipython_config.py
+.pdm.toml
+_pypackages_/
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+# SageMath parsed files
+*.sage.py
+# Environments
+.env
+company_cover_images/
+company_logos/
+company_service_cover_picture/
+company_sub_service_cover_picture/
+company_promotion_picture/
+company_documents/
+employee_profile_image/
+employee_documents/
+business_card_profile_image/
+business_card_qr_image/
+company_qr_image/
+.venv
+chatenv/
+env/
+venv/
+# company_cover_images/
+# company_logos/
+# company_service_cover_picture/
+ENV/
+env.bak/
+venv.bak/
+data.txt
+# Spyder project settings
+.spyderproject
+.spyproject
+# Rope project settings
+.ropeproject
+# mkdocs documentation
+/site
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+# Pyre type checker
+.pyre/
+# pytype static type analyzer
+.pytype/
+# Cython debug symbols
+cython_debug/
